@@ -9,4 +9,8 @@ In this project are involved 3D models implemented using ThreeJS technology.
 
 Site deployed on Netlify, you can check it here: https://threejsportfoliostefanopedicino.netlify.app/
 
+
+PS. The site is currently fully responsive but some 3D Models may not be visualized from mobile devices.
+
+
 ![image](https://github.com/stefanopedicinogit/ThreeJS_portfolio/assets/83118026/067c1bcd-dae7-4d2d-9b6c-8375053e6bd9)
